@@ -10,3 +10,15 @@ D:\WinForms\Работа на уроке\Personal_Notes_Manager\Personal_Notes_M
 D:\WinForms\Работа на уроке\Personal_Notes_Manager\Personal_Notes_Manager\obj\Debug\Personal_Notes_Manager.csproj.GenerateResource.Cache
 D:\WinForms\Работа на уроке\Personal_Notes_Manager\Personal_Notes_Manager\obj\Debug\Personal_Notes_Manager.exe
 D:\WinForms\Работа на уроке\Personal_Notes_Manager\Personal_Notes_Manager\obj\Debug\Personal_Notes_Manager.pdb
+D:\Git\Personal_Notes_Manager\Personal_Notes_Manager\bin\Debug\Personal_Notes_Manager.exe.config
+D:\Git\Personal_Notes_Manager\Personal_Notes_Manager\obj\Debug\Personal_Notes_Manager.exe
+D:\Git\Personal_Notes_Manager\Personal_Notes_Manager\obj\Debug\Personal_Notes_Manager.pdb
+D:\Git\Personal_Notes_Manager\Personal_Notes_Manager\bin\Debug\Personal_Notes_Manager.exe
+D:\Git\Personal_Notes_Manager\Personal_Notes_Manager\bin\Debug\Personal_Notes_Manager.pdb
+D:\Git\Personal_Notes_Manager\Personal_Notes_Manager\obj\Debug\Personal_Notes_Manager.csprojResolveAssemblyReference.cache
+D:\Git\Personal_Notes_Manager\Personal_Notes_Manager\obj\Debug\Personal_Notes_Manager.Form1.resources
+D:\Git\Personal_Notes_Manager\Personal_Notes_Manager\obj\Debug\Personal_Notes_Manager.Form2.resources
+D:\Git\Personal_Notes_Manager\Personal_Notes_Manager\obj\Debug\Personal_Notes_Manager.Form3.resources
+D:\Git\Personal_Notes_Manager\Personal_Notes_Manager\obj\Debug\Personal_Notes_Manager.Form4.resources
+D:\Git\Personal_Notes_Manager\Personal_Notes_Manager\obj\Debug\Personal_Notes_Manager.Properties.Resources.resources
+D:\Git\Personal_Notes_Manager\Personal_Notes_Manager\obj\Debug\Personal_Notes_Manager.csproj.GenerateResource.Cache
