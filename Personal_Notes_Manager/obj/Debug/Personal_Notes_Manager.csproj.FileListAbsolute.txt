@@ -25,3 +25,6 @@ D:\Git\Personal_Notes_Manager\Personal_Notes_Manager\obj\Debug\Personal_Notes_Ma
 C:\Users\student.STEP\Documents\GitHub\TestLesson\Personal_Notes_Manager\Personal_Notes_Manager\bin\Debug\Personal_Notes_Manager.exe.config
 C:\Users\student.STEP\Documents\GitHub\TestLesson\Personal_Notes_Manager\Personal_Notes_Manager\obj\Debug\Personal_Notes_Manager.exe
 C:\Users\student.STEP\Documents\GitHub\TestLesson\Personal_Notes_Manager\Personal_Notes_Manager\obj\Debug\Personal_Notes_Manager.pdb
+D:\try\Personal_Notes_Manager\Personal_Notes_Manager\bin\Debug\Personal_Notes_Manager.exe.config
+D:\try\Personal_Notes_Manager\Personal_Notes_Manager\obj\Debug\Personal_Notes_Manager.exe
+D:\try\Personal_Notes_Manager\Personal_Notes_Manager\obj\Debug\Personal_Notes_Manager.pdb
