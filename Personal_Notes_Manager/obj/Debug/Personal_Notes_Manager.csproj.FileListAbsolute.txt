@@ -22,3 +22,6 @@ D:\Git\Personal_Notes_Manager\Personal_Notes_Manager\obj\Debug\Personal_Notes_Ma
 D:\Git\Personal_Notes_Manager\Personal_Notes_Manager\obj\Debug\Personal_Notes_Manager.Form4.resources
 D:\Git\Personal_Notes_Manager\Personal_Notes_Manager\obj\Debug\Personal_Notes_Manager.Properties.Resources.resources
 D:\Git\Personal_Notes_Manager\Personal_Notes_Manager\obj\Debug\Personal_Notes_Manager.csproj.GenerateResource.Cache
+C:\Users\student.STEP\Documents\GitHub\TestLesson\Personal_Notes_Manager\Personal_Notes_Manager\bin\Debug\Personal_Notes_Manager.exe.config
+C:\Users\student.STEP\Documents\GitHub\TestLesson\Personal_Notes_Manager\Personal_Notes_Manager\obj\Debug\Personal_Notes_Manager.exe
+C:\Users\student.STEP\Documents\GitHub\TestLesson\Personal_Notes_Manager\Personal_Notes_Manager\obj\Debug\Personal_Notes_Manager.pdb
